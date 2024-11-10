@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🛠️Skill
+### 🛠️ Skill
 #### 프로젝트에 적용할 수 있는
 <p>
 	<img src="https://img.shields.io/badge/java-C63830?style=flat-square&logo=java&logoColor=white"/>
@@ -26,11 +26,11 @@
 
 <br>
 
-### Project
+### 🖥️ Project
 <p>
-  [![텍스트](MybraryTag.png)](https://github.com/hyeseon97/Mybrary)
-  [![텍스트](DobieTag.png)](https://github.com/hyeseon97/Dobie)
-  [![텍스트](NOAHTag.png)](https://github.com/hyeseon97/NOAH)
+  <img src="MybraryTag.png" width="200"/>
+  <img src="DobieTag.png" width="200"/>
+  <img src="NOAHTag.png" width="200"/>
 </p>
 
 
