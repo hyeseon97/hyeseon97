@@ -28,9 +28,9 @@
 
 ### Project
 <p>
-  [![텍스트](etc/MybraryTag.png)](https://github.com/hyeseon97/Mybrary)
-  [![텍스트](etc/DobieTag.png)](https://github.com/hyeseon97/Dobie)
-  [![텍스트](etc/NOAHTag.png)](https://github.com/hyeseon97/NOAH)
+  [![텍스트](MybraryTag.png)](https://github.com/hyeseon97/Mybrary)
+  [![텍스트](DobieTag.png)](https://github.com/hyeseon97/Dobie)
+  [![텍스트](NOAHTag.png)](https://github.com/hyeseon97/NOAH)
 </p>
 
 
