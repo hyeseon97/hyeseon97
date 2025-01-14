@@ -58,6 +58,7 @@
 -->
 
 ### 📂 주요 프로젝트
+<!--
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/hyeseon97/Mybrary" title="라이브러리 형식의 웹 SNS 서비스">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeseon97&repo=Mybrary&theme=light" style="width: 33%;" />
@@ -69,3 +70,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeseon97&repo=NOAH&theme=light" style="width: 33%;"/>
   </a>
 </div>
+-->
